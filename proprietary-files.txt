@@ -896,7 +896,7 @@ system/etc/permissions/moto-telephony.xml:system_ext/etc/permissions/moto-teleph
 system/framework/moto-telephony.jar:system_ext/framework/moto-telephony.jar
 
 # Radio - IMS (APK) - from bangkk patched
--system_ext/priv-app/ims/ims.apk
+#-system_ext/priv-app/ims/ims.apk
 
 # RIL - IMS
 -system_ext/app/ImsRcsService/ImsRcsService.apk
